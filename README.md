@@ -1,4 +1,4 @@
-# The-love-I-recieve-from-Udacity-reviwer-reserch-papers
+# The-love-I-receive-from-Udacity-reviwer-reserch-papers
 
 My gratitude to Sir Sebastion Thrun, Sir Peter Norvig, Sir David J. Malan, Sir David Silver, Sir 
 To memorize the journey start from self-driving Car Engineer Nanodegree Program to Artificial Intelligence Nanodegree Program to Flying Car Nanodegree Program then Robotics Software Nanodegree Program and CS50: Introduction to Computer Science 2018 and CS50's Computer Science for Business Professionals, To memorize the year of my enrollment from 2017 - present to memorize mentors Donald, Christopher and David who encourage and support me a lot while my enrollment and The feedback and paper refernces my reviewer shared with me. I want to extend what I learn and the spirits share knowledge with you. 
@@ -62,4 +62,27 @@ https://artint.info/html/ArtInt_206.html
 http://www.cs.umd.edu/~djacobs/CMSC828/ApplicationsHMMs.pdf 
 https://www.quora.com/What-are-some-applications-of-Probabilistic-Graphical-Models
 
+#### Paper References from Robotics Software Engineer Nanodegree Program reviewers:
 
+http://www.cs.cmu.edu/~15464-s13/lectures/lecture6/IK.pdf
+http://www.cs.columbia.edu/~allen/F15/NOTES/jacobians.pdf
+https://wiki.python.org/moin/UsingPickle
+https://distill.pub/2016/augmented-rnns/
+https://indico.io/blog/sequence-modeling-neural-networks-part2-attention-models/
+https://blog.keras.io/building-autoencoders-in-keras.html
+https://arxiv.org/pdf/1511.06309.pdf
+https://pjreddie.com/darknet/yolo/
+http://cs231n.github.io/classification/
+https://towardsdatascience.com/deep-learning-for-image-classification-why-its-challenging-where-we-ve-been-and-what-s-next-93b56948fcef
+https://blog.paralleldots.com/data-science/must-read-path-breaking-papers-about-image-classification/
+https://blog.openai.com/adversarial-example-research/
+https://blog.xix.ai/how-adversarial-attacks-work-87495b81da2d
+http://robots.stanford.edu/papers/thrun.robust-mcl.pdf
+
+#### Paper References from Secure and Private AI Scholarship Challenge Nanodegree Program:
+
+https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf  
+https://arxiv.org/pdf/1607.00133.pdf  
+https://blog.openmined.org/federated-learning-of-a-rnn-on-raspberry-pis/ from Sarah.  
+https://towardsdatascience.com/pysyft-android-b28da47a767e  
+https://course.fast.ai/
