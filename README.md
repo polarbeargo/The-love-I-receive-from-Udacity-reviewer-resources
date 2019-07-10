@@ -1,4 +1,4 @@
-# The-love-I-receive-from-Udacity-reviwer-research-papers
+# The-love-I-receive-from-Udacity-reviewer-research-papers
 
 My gratitude to Sir Sebastion Thrun, Sir Peter Norvig, Sir David J. Malan, Sir David Silver, Sir 
 To memorize the journey start from self-driving Car Engineer Nanodegree Program to Artificial Intelligence Nanodegree Program to Flying Car Nanodegree Program then Robotics Software Nanodegree Program and CS50: Introduction to Computer Science 2018 and CS50's Computer Science for Business Professionals, To memorize the year of my enrollment from 2017 - present to memorize mentors Donald, Christopher and David who encourage and support me a lot while my enrollment and The feedback and paper refernces my reviewer shared with me. I want to extend what I learn and the spirits share knowledge with you. 
