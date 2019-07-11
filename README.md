@@ -1,6 +1,6 @@
 # The-love-I-receive-from-Udacity-reviewer-resources
 
-My gratitude to Sir Sebastion Thrun, Sir Peter Norvig, Sir David J. Malan, Sir David Silver, Sir 
+My gratitude to Sir Sebastion Thrun, Sir Peter Norvig, Sir David J. Malan, Sir David Silver, Sir Michael Virgo, Sir Tucker 
 To memorize the journey start from self-driving Car Engineer Nanodegree Program to Artificial Intelligence Nanodegree Program to Flying Car Nanodegree Program then Robotics Software Nanodegree Program and CS50: Introduction to Computer Science 2018 and CS50's Computer Science for Business Professionals, To memorize the year of my enrollment from 2017 - present to memorize mentors Donald, Christopher and David who encourage and support me a lot while my enrollment and The feedback and paper refernces my reviewer shared with me. I want to extend what I learn and the spirits share knowledge with you. 
 
 #### Paper References from Self-Driving Car reviewers:
@@ -40,7 +40,12 @@ https://arxiv.org/pdf/1411.4038.pdf
 http://cs231n.github.io/neural-networks-2/#init   
 http://cs231n.github.io/neural-networks-2/#reg   
 https://stats.stackexchange.com/questions/164876/tradeoff-batch-size-vs-number-of-iterations-to-train-a-neural-network   
-https://www.jeremyjordan.me/nn-learning-rate/   
+https://www.jeremyjordan.me/nn-learning-rate/  
+https://arxiv.org/abs/1806.02446  
+https://arxiv.org/abs/1903.03273
+https://arxiv.org/abs/1901.00114
+https://roscon.ros.org/2018/#program
+http://driving.stanford.edu/papers/ISER2010.pdf
 
 #### Paper References from Flying Car reviewers:
 
@@ -49,7 +54,13 @@ https://docs.ufpr.br/~danielsantos/ProbabilisticRobotics.pdf
 https://www.youtube.com/playlist?list=PLX2gX-ftPVXU3oUFNATxGXY90AULiqnWT  
 https://simondlevy.academic.wlu.edu/  
 https://docs.google.com/viewer?url=https%3A%2F%2Fwww.seas.harvard.edu%2Fcourses%2Fcs281%2Fpapers%2Funscented.pdf  
-http://andrew.gibiansky.com/downloads/pdf/Quadcopter%20Dynamics,%20Simulation,%20and%20Control.pdf  
+http://andrew.gibiansky.com/downloads/pdf/Quadcopter%20Dynamics,%20Simulation,%20and%20Control.pdf 
+http://aeroconf.org/  
+https://arxiv.org/abs/1902.01465  
+http://navion.mit.edu/  
+https://www.researchgate.net/publication/322020415_Adaptive_Super-twisting_Second-order_Sliding_Mode_Control_for_Attitude_Control_of_Quadcopter_UAVs  
+https://arxiv.org/abs/1801.10130  
+https://utm.arc.nasa.gov/documents.shtml
 
 #### Paper References from Artificial Intelligence Nanodegree Program reviewers:
 
@@ -77,7 +88,10 @@ https://towardsdatascience.com/deep-learning-for-image-classification-why-its-ch
 https://blog.paralleldots.com/data-science/must-read-path-breaking-papers-about-image-classification/
 https://blog.openai.com/adversarial-example-research/
 https://blog.xix.ai/how-adversarial-attacks-work-87495b81da2d
-http://robots.stanford.edu/papers/thrun.robust-mcl.pdf
+http://robots.stanford.edu/papers/thrun.robust-mcl.pdf  
+https://ai.googleblog.com/2018/12/exploring-quantum-neural-networks.html  
+https://realsense.intel.com/deep-learning-for-vr-ar/  
+http://vision.stanford.edu/pdf/mandlekar2018corl.pdf
 
 #### Paper References from Secure and Private AI Scholarship Challenge Nanodegree Program:
 
