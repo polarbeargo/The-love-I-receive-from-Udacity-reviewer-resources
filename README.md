@@ -3,6 +3,13 @@
 My gratitude to Sir Sebastion Thrun, Sir Peter Norvig, Sir David J. Malan, Sir David Silver, Sir Michael Virgo, Sir Tucker 
 To memorize the journey start from self-driving Car Engineer Nanodegree Program to Artificial Intelligence Nanodegree Program to Flying Car Nanodegree Program then Robotics Software Nanodegree Program and CS50: Introduction to Computer Science 2018 and CS50's Computer Science for Business Professionals, To memorize the year of my enrollment from 2017 - present to memorize mentors Donald, Christopher and David who encourage and support me a lot while my enrollment and The feedback and paper refernces my reviewer shared with me. I want to extend what I learn and the spirits share knowledge with you. 
 
+#### From Madam Olga Uskova:
+
+https://en.wikipedia.org/wiki/Olga_Uskova  
+https://vimeo.com/cognitivetech  
+http://www.taipeitimes.com/News/feat/archives/2018/01/08/2003685375  
+http://www.agriland.ie/farming-news/fully-driverless-combine-harvester-by-2024/  
+
 #### Paper References from Self-Driving Car reviewers:
 
 https://airccj.org/CSCP/vol5/csit53211.pdf   
@@ -75,6 +82,7 @@ https://www.quora.com/What-are-some-applications-of-Probabilistic-Graphical-Mode
 
 #### Paper References from Robotics Software Engineer Nanodegree Program reviewers:
 
+https://www.youtube.com/watch?time_continue=33&v=J_lXNPRIwag
 http://www.cs.cmu.edu/~15464-s13/lectures/lecture6/IK.pdf
 http://www.cs.columbia.edu/~allen/F15/NOTES/jacobians.pdf
 https://wiki.python.org/moin/UsingPickle
