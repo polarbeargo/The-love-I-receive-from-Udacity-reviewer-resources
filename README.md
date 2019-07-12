@@ -46,16 +46,16 @@ http://ais.informatik.uni-freiburg.de/teaching/ss10/robotics/slides/16-pathplann
 http://ai.stanford.edu/~ddolgov/papers/dolgov_gpp_stair08.pdf   
 https://webpages.uncc.edu/~jmconrad/GradStudents/Thesis_Ghangrekar.pdf   
 http://blog.qure.ai/notes/semantic-segmentation-deep-learning-review   
-https://arxiv.org/pdf/1411.4038.pdf   
+https://arxiv.org/pdf/1411.4038.pdf     
 http://cs231n.github.io/neural-networks-2/#init   
 http://cs231n.github.io/neural-networks-2/#reg   
 https://stats.stackexchange.com/questions/164876/tradeoff-batch-size-vs-number-of-iterations-to-train-a-neural-network   
 https://www.jeremyjordan.me/nn-learning-rate/  
-https://arxiv.org/abs/1806.02446  
-https://arxiv.org/abs/1903.03273
-https://arxiv.org/abs/1901.00114
-https://roscon.ros.org/2018/#program
-http://driving.stanford.edu/papers/ISER2010.pdf
+https://arxiv.org/abs/1806.02446    
+https://arxiv.org/abs/1903.03273  
+https://arxiv.org/abs/1901.00114  
+https://roscon.ros.org/2018/#program  
+http://driving.stanford.edu/papers/ISER2010.pdf  
 
 #### Paper References from Flying Car reviewers:
 
@@ -74,40 +74,40 @@ https://utm.arc.nasa.gov/documents.shtml
 
 #### Paper References from Artificial Intelligence Nanodegree Program reviewers:
 
-https://people.csail.mit.edu/rivest/pubs/Riv87c.pdf    
-https://www.semanticscholar.org/paper/Deep-Blue-Campbell-Hoane/378f933bbdb70d6f373e32e7182b6a5669c95d02    
-https://storage.googleapis.com/deepmind-media/alphago/AlphaGoNaturePaper.pdf    
-http://www.cs.nott.ac.uk/~psznza/G52PAS/lecture9.pdf  
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/lecture-notes/Lecture10FinalPart1.pdf  
-https://artint.info/html/ArtInt_206.html  
-http://www.cs.umd.edu/~djacobs/CMSC828/ApplicationsHMMs.pdf 
-https://www.quora.com/What-are-some-applications-of-Probabilistic-Graphical-Models
+https://people.csail.mit.edu/rivest/pubs/Riv87c.pdf      
+https://www.semanticscholar.org/paper/Deep-Blue-Campbell-Hoane/378f933bbdb70d6f373e32e7182b6a5669c95d02      
+https://storage.googleapis.com/deepmind-media/alphago/AlphaGoNaturePaper.pdf      
+http://www.cs.nott.ac.uk/~psznza/G52PAS/lecture9.pdf    
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/lecture-notes/Lecture10FinalPart1.pdf    
+https://artint.info/html/ArtInt_206.html    
+http://www.cs.umd.edu/~djacobs/CMSC828/ApplicationsHMMs.pdf   
+https://www.quora.com/What-are-some-applications-of-Probabilistic-Graphical-Models  
 
 #### Paper References from Robotics Software Engineer Nanodegree Program reviewers:
 
-https://www.youtube.com/watch?time_continue=33&v=J_lXNPRIwag
-http://www.cs.cmu.edu/~15464-s13/lectures/lecture6/IK.pdf
-http://www.cs.columbia.edu/~allen/F15/NOTES/jacobians.pdf
-https://wiki.python.org/moin/UsingPickle
-https://distill.pub/2016/augmented-rnns/
-https://indico.io/blog/sequence-modeling-neural-networks-part2-attention-models/
-https://blog.keras.io/building-autoencoders-in-keras.html
-https://arxiv.org/pdf/1511.06309.pdf
-https://pjreddie.com/darknet/yolo/
-http://cs231n.github.io/classification/
-https://towardsdatascience.com/deep-learning-for-image-classification-why-its-challenging-where-we-ve-been-and-what-s-next-93b56948fcef
-https://blog.paralleldots.com/data-science/must-read-path-breaking-papers-about-image-classification/
-https://blog.openai.com/adversarial-example-research/
-https://blog.xix.ai/how-adversarial-attacks-work-87495b81da2d
-http://robots.stanford.edu/papers/thrun.robust-mcl.pdf  
-https://ai.googleblog.com/2018/12/exploring-quantum-neural-networks.html  
-https://realsense.intel.com/deep-learning-for-vr-ar/  
-http://vision.stanford.edu/pdf/mandlekar2018corl.pdf
+https://www.youtube.com/watch?time_continue=33&v=J_lXNPRIwag  
+http://www.cs.cmu.edu/~15464-s13/lectures/lecture6/IK.pdf  
+http://www.cs.columbia.edu/~allen/F15/NOTES/jacobians.pdf  
+https://wiki.python.org/moin/UsingPickle  
+https://distill.pub/2016/augmented-rnns/  
+https://indico.io/blog/sequence-modeling-neural-networks-part2-attention-models/  
+https://blog.keras.io/building-autoencoders-in-keras.html  
+https://arxiv.org/pdf/1511.06309.pdf  
+https://pjreddie.com/darknet/yolo/  
+http://cs231n.github.io/classification/  
+https://towardsdatascience.com/deep-learning-for-image-classification-why-its-challenging-where-we-ve-been-and-what-s-next-93b56948fcef  
+https://blog.paralleldots.com/data-science/must-read-path-breaking-papers-about-image-classification/  
+https://blog.openai.com/adversarial-example-research/  
+https://blog.xix.ai/how-adversarial-attacks-work-87495b81da2d  
+http://robots.stanford.edu/papers/thrun.robust-mcl.pdf    
+https://ai.googleblog.com/2018/12/exploring-quantum-neural-networks.html    
+https://realsense.intel.com/deep-learning-for-vr-ar/    
+http://vision.stanford.edu/pdf/mandlekar2018corl.pdf  
 
 #### Paper References from Secure and Private AI Scholarship Challenge Nanodegree Program:
 
-https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf  
-https://arxiv.org/pdf/1607.00133.pdf  
-https://blog.openmined.org/federated-learning-of-a-rnn-on-raspberry-pis/ from Sarah.  
-https://towardsdatascience.com/pysyft-android-b28da47a767e  
-https://course.fast.ai/
+https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf    
+https://arxiv.org/pdf/1607.00133.pdf    
+https://blog.openmined.org/federated-learning-of-a-rnn-on-raspberry-pis/ from Sarah.    
+https://towardsdatascience.com/pysyft-android-b28da47a767e    
+https://course.fast.ai/  
