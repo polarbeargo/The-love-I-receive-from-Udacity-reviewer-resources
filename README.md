@@ -1,6 +1,7 @@
 # The-love-I-receive-from-Udacity-reviewer-resources
 
-My gratitude to Sir Sebastion Thrun, Sir Peter Norvig, Sir David J. Malan, Sir David Silver, Sir Michael Virgo, Sir Tucker 
+My gratitude to Sir Sebastion Thrun, Sir Peter Norvig, Sir David J. Malan, Sir David Silver, Sir Stephen, Sir Aaron Brown, Sir Michael Virgo, Sir Tucker and Sir Akshit.  
+
 To memorize the journey start from self-driving Car Engineer Nanodegree Program to Artificial Intelligence Nanodegree Program to Flying Car Nanodegree Program then Robotics Software Nanodegree Program and CS50: Introduction to Computer Science 2018, To memorize the year of my enrollment in Udacity from 2017 to present.   
   
   To memorize mentors Donald, Christopher, Jafar and David who encourage and support me a lot through my enrollment years. Here I collect the feedback and paper references from my Udacity reviewers and friendships I got from Udacity and CS50X. I want to extend what I learn and also extend the spirits, share knowledge with all my classmates at least this is what I can do if any of this citation papers helps you please send a star to them or references their papers will be an honorable action:).   
