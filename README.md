@@ -1,6 +1,6 @@
 # The-love-I-receive-from-Udacity-reviewer-resources
 
-My gratitude to Sir Sebastion Thrun, Sir Peter Norvig, Sir David J. Malan, Sir David Silver, Sir Stephen, Sir Aaron Brown, Sir Michael Virgo, Sir Tucker and Sir Akshit.  
+My gratitude to Sir Sebastion Thrun, Sir Peter Norvig, Sir Thad Starner, Sir David J. Malan, Sir David Silver, Sir Stephen, Sir Aaron Brown, Sir Michael Virgo, Sir Tucker and Sir Akshit.  
 
 To memorize the journey start from self-driving Car Engineer Nanodegree Program to Artificial Intelligence Nanodegree Program to Flying Car Nanodegree Program then Robotics Software Nanodegree Program and CS50: Introduction to Computer Science 2018, To memorize the year of my enrollment in Udacity from 2017 to present.   
   
@@ -113,3 +113,10 @@ https://arxiv.org/pdf/1607.00133.pdf
 https://blog.openmined.org/federated-learning-of-a-rnn-on-raspberry-pis/ from Sarah.    
 https://towardsdatascience.com/pysyft-android-b28da47a767e    
 https://course.fast.ai/  
+
+#### Paper References from AI for Trading Nanodegree Program:
+
+https://machinelearningmastery.com/statistical-hypothesis-tests/    
+https://stats.idre.ucla.edu/other/mult-pkg/faq/general/faq-what-are-the-differences-between-one-tailed-and-two-tailed-tests/   
+https://www.datacamp.com/community/tutorials/finance-python-trading   
+https://towardsdatascience.com/inferential-statistics-series-t-test-using-numpy-2718f8f9bf2f  
