@@ -1,6 +1,6 @@
 # The-love-I-receive-from-Udacity-reviewer-resources
 
-My gratitude to Sir Sebastion Thrun, Sir Peter Norvig, Sir Thad Starner,Sir Nicholas Roy, Sir David J. Malan, Sir David Silver, Sir Raffaello D'Andrea, Sir Ryan, Sir Stephen, Sir Aaron Brown, Sir Andy, Instructor Stefanie, Instructor Angela, Sir Jonathan, Instructor Liz, Instructor Eddie, Instructor Miriam, Instructor Cindy, Instructor Brok, Instructor Arpan, Sir Jake, Sir Michael Virgo, Sir Tucker and Sir Akshit.  
+My gratitude to Sir Sebastion Thrun, Sir Peter Norvig, Sir Thad Starner,Sir Nicholas Roy, Sir David J. Malan, Sir David Silver, Sir Raffaello D'Andrea, Sir Ryan, Madam Dana Sheahen, Instructor Erica, Instructor Karim, Instructor Julia, Sir Stephen, Sir Aaron Brown, Sir Andy, Instructor Stefanie, Instructor Angela, Sir Jonathan, Instructor Liz, Instructor Eddie, Instructor Miriam, Instructor Cindy, Instructor Brok, Instructor Arpan, Sir Jake, Sir Michael Virgo, Sir Tucker and Sir Akshit.  
 
 To memorize the journey start from self-driving Car Engineer Nanodegree Program to Artificial Intelligence Nanodegree Program to Flying Car Nanodegree Program then Robotics Software Nanodegree Program and CS50: Introduction to Computer Science 2018, To memorize the year of my enrollment in Udacity from 2017 to present.   
   
@@ -105,6 +105,8 @@ http://robots.stanford.edu/papers/thrun.robust-mcl.pdf
 https://ai.googleblog.com/2018/12/exploring-quantum-neural-networks.html    
 https://realsense.intel.com/deep-learning-for-vr-ar/    
 http://vision.stanford.edu/pdf/mandlekar2018corl.pdf  
+http://robot.cc/papers/thrun.graphslam.pdf  
+http://www2.informatik.uni-freiburg.de/~stachnis/pdf/grisetti10titsmag.pdf
 
 #### Paper References from Secure and Private AI Scholarship Challenge Nanodegree Program:
 
