@@ -106,7 +106,10 @@ https://ai.googleblog.com/2018/12/exploring-quantum-neural-networks.html
 https://realsense.intel.com/deep-learning-for-vr-ar/    
 http://vision.stanford.edu/pdf/mandlekar2018corl.pdf  
 http://robot.cc/papers/thrun.graphslam.pdf  
-http://www2.informatik.uni-freiburg.de/~stachnis/pdf/grisetti10titsmag.pdf
+http://www2.informatik.uni-freiburg.de/~stachnis/pdf/grisetti10titsmag.pdf  
+https://s3-us-west-1.amazonaws.com/udacity-drlnd/bookdraft2018.pdf  
+https://github.com/udacity/rl-cheatsheet/blob/master/cheatsheet.pdf  
+https://en.wikipedia.org/wiki/Bag-of-words_model_in_computer_vision
 
 #### Paper References from Secure and Private AI Scholarship Challenge Nanodegree Program:
 
