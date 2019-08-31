@@ -116,7 +116,12 @@ https://www.cs.cmu.edu/~maxim/files/pathplanforMAV_icra13.pdf
 https://arxiv.org/pdf/1611.03673.pdf  
 http://proceedings.mlr.press/v48/mniha16.pdf  
 https://deepmind.com/blog/article/reinforcement-learning-unsupervised-auxiliary-tasks  
-https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-8-asynchronous-actor-critic-agents-a3c-c88f72a5e9f2
+https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-8-asynchronous-actor-critic-agents-a3c-c88f72a5e9f2  
+https://arxiv.org/pdf/1609.05143.pdf  
+https://openai.com/blog/ingredients-for-robotics-research/  
+https://arxiv.org/pdf/1708.05866.pdf  
+https://openai.com/resources/    
+https://www.groundai.com/project/self-supervised-deep-reinforcement-learning-with-generalized-computation-graphs-for-robot-navigation/
 
 #### Paper References from Secure and Private AI Scholarship Challenge Nanodegree Program:
 
