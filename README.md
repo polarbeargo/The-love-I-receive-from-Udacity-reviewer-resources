@@ -109,7 +109,14 @@ http://robot.cc/papers/thrun.graphslam.pdf
 http://www2.informatik.uni-freiburg.de/~stachnis/pdf/grisetti10titsmag.pdf  
 https://s3-us-west-1.amazonaws.com/udacity-drlnd/bookdraft2018.pdf  
 https://github.com/udacity/rl-cheatsheet/blob/master/cheatsheet.pdf  
-https://en.wikipedia.org/wiki/Bag-of-words_model_in_computer_vision
+https://en.wikipedia.org/wiki/Bag-of-words_model_in_computer_vision  
+https://movingai.com/astar-var.html  
+http://theory.stanford.edu/~amitp/GameProgramming/Variations.html  
+https://www.cs.cmu.edu/~maxim/files/pathplanforMAV_icra13.pdf  
+https://arxiv.org/pdf/1611.03673.pdf  
+http://proceedings.mlr.press/v48/mniha16.pdf  
+https://deepmind.com/blog/article/reinforcement-learning-unsupervised-auxiliary-tasks  
+https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-8-asynchronous-actor-critic-agents-a3c-c88f72a5e9f2
 
 #### Paper References from Secure and Private AI Scholarship Challenge Nanodegree Program:
 
