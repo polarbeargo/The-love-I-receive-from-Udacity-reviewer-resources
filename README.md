@@ -137,3 +137,5 @@ https://machinelearningmastery.com/statistical-hypothesis-tests/
 https://stats.idre.ucla.edu/other/mult-pkg/faq/general/faq-what-are-the-differences-between-one-tailed-and-two-tailed-tests/   
 https://www.datacamp.com/community/tutorials/finance-python-trading   
 https://towardsdatascience.com/inferential-statistics-series-t-test-using-numpy-2718f8f9bf2f  
+https://www.zipline.io/appendix.html#zipline.pipeline.factors.Factor.rank  
+https://towardsdatascience.com/how-the-mathematics-of-fractals-can-help-predict-stock-markets-shifts-19fee5dd6574
