@@ -152,9 +152,9 @@ https://www.groundai.com/project/self-supervised-deep-reinforcement-learning-wit
 [official AMCL documentation](http://wiki.ros.org/amcl)
 
  * Mapping Accuracy   
-[Loop closure during SLAM](https://www.youtube.com/watch?v=9w5_XPyDSlA&feature=youtu.be)  
+[Loop closure during SLAM](https://www.youtube.com/watch?v=BaqSRf5pAZ0)  
 [Simultaneous Localization And Mapping (SLAM) using RTAB-Map](https://fenix.tecnico.ulisboa.pt/downloadFile/1689468335617258/07_MappingProbabilistic_1819.pdf)  
-[Occupancy Mapping. What is it?](https://www.youtube.com/watch?v=BaqSRf5pAZ0)  
+[Occupancy Mapping. What is it?](https://www.youtube.com/watch?v=Ko7SWZQIawM)  
 [Occupancy Grid Mapping - Log odd Update](https://arxiv.org/pdf/1809.02989.pdf)  
 [Occupancy Grid Mapping - Handling Range Sensor](https://www.youtube.com/watch?v=Ko7SWZQIawM)  
 [Inverse Sensor Model](https://www.youtube.com/watch?v=kh35PqEFQxE&feature=youtu.be)
