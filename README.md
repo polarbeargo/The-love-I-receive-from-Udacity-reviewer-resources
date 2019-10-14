@@ -123,6 +123,42 @@ https://arxiv.org/pdf/1708.05866.pdf
 https://openai.com/resources/    
 https://www.groundai.com/project/self-supervised-deep-reinforcement-learning-with-generalized-computation-graphs-for-robot-navigation/
 
+##### SLAM
+* Sir Sebastian course: [AI for Robotics](https://classroom.udacity.com/courses/cs373)
+
+* Interesting content on SLAM  
+[facebook & SLAM: Bringing art to life through technology](https://ai.facebook.com/blog/slam-bringing-art-to-life-through-technology/)  
+[facebook & SLAM: Powered by AI: Oculus Insight](https://ai.facebook.com/blog/powered-by-ai-oculus-insight/)  
+[SLAM (Simultaneous Localization And Mapping) Tracking Technology As Explained By Facebook](https://www.youtube.com/watch?v=bAl6hpS0ME0)  
+[Mapping roads through deep learning and weakly supervised training](https://ai.facebook.com/blog/mapping-roads-through-deep-learning-and-weakly-supervised-training/)  
+[BatSLAM: Biomimetic Sonar SLAM](https://robots.net/news/archive/batslam-biomimetic-sonar-slam/)  
+[Which problems/situations are still unsolved or difficult in SLAM?](https://www.researchgate.net/post/Which_problems_situations_are_still_unsolved_or_difficult_in_SLAM)  
+
+* Recent Papers on SLAM  
+[ViTa-SLAM: Biologically-Inspired Visuo-Tactile SLAM](https://www.researchgate.net/publication/332368742_ViTa-SLAM_Biologically-Inspired_Visuo-Tactile_SLAM)  
+[k -SLAM: A fast RGB-D SLAM approach for large indoor environments](https://www.sciencedirect.com/science/article/pii/S107731421930058X)  
+[k-SLAM: A fast RGB-D SLAM approach for large indoor environments - Video](https://www.youtube.com/watch?v=7SXDFQP5Gzc)  
+[DRE-SLAM: Dynamic RGB-D Encoder SLAM for a Differential-Drive Robot](https://www.researchgate.net/publication/331091167_DRE-SLAM_Dynamic_RGB-D_Encoder_SLAM_for_a_Differential-Drive_Robot)  
+[Linear SLAM: Linearising the SLAM problems using submap joining](https://www.sciencedirect.com/science/article/pii/S0005109818305119)  
+[Benchmark of Visual SLAM Algorithms: ORB-SLAM2 vs RTAB-Map](https://ieeexplore.ieee.org/document/8806213)  
+[GSLAM: A General SLAM Framework and Benchmark](https://paperswithcode.com/paper/gslam-a-general-slam-framework-and-benchmark)  
+[miniSAM: A Flexible Factor Graph Non-linear Least Squares Optimization Framework](https://paperswithcode.com/paper/minisam-a-flexible-factor-graph-non-linear)  
+
+##### Mapping  
+ * External Material      
+[ROS Navigation tuning guide](http://kaiyuzheng.me/documents/navguide.pdf)  
+[set start position of robot within amcl](https://www.youtube.com/watch?v=HmSdUagisAE)  
+[How to Tune Navigational Parameters Using a Graphical Tool?](https://www.youtube.com/watch?v=s0JA9jjZi44)  
+[official AMCL documentation](http://wiki.ros.org/amcl)
+
+ * Mapping Accuracy   
+[Loop closure during SLAM](https://www.youtube.com/watch?v=9w5_XPyDSlA&feature=youtu.be)  
+[Simultaneous Localization And Mapping (SLAM) using RTAB-Map](https://fenix.tecnico.ulisboa.pt/downloadFile/1689468335617258/07_MappingProbabilistic_1819.pdf)  
+[Occupancy Mapping. What is it?](https://www.youtube.com/watch?v=BaqSRf5pAZ0)  
+[Occupancy Grid Mapping - Log odd Update](https://arxiv.org/pdf/1809.02989.pdf)  
+[Occupancy Grid Mapping - Handling Range Sensor](https://www.youtube.com/watch?v=Ko7SWZQIawM)  
+[Inverse Sensor Model](https://www.youtube.com/watch?v=kh35PqEFQxE&feature=youtu.be)
+
 #### Paper References from Secure and Private AI Scholarship Challenge Nanodegree Program:
 
 https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf    
