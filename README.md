@@ -165,7 +165,12 @@ https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf
 https://arxiv.org/pdf/1607.00133.pdf    
 https://blog.openmined.org/federated-learning-of-a-rnn-on-raspberry-pis/ from Sarah.    
 https://towardsdatascience.com/pysyft-android-b28da47a767e    
-https://course.fast.ai/  
+https://course.fast.ai/ 
+[CNN's for Visual Recognition](http://cs231n.github.io/)
+[Deep Conv nets for image classification](http://web.engr.illinois.edu/~slazebni/spring14/lec24_cnn.pdf)
+[Large Scale image Recognition using DNN's](https://arxiv.org/pdf/1409.1556.pdf)
+[Transfer Learning](http://cs231n.github.io/transfer-learning/)
+[Awesome Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
 
 #### Paper References from AI for Trading Nanodegree Program:
 
