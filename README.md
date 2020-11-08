@@ -126,6 +126,8 @@ http://raiahadsell.com/uploads/3/6/4/2/36428762/erf2017_keynote_talk.pdf
 https://papers.nips.cc/paper/1999/file/54f5f4071faca32ad5285fef87b78646-Paper.pdf  
 http://read.pudn.com/downloads142/sourcecode/others/617477/inventory%20supply%20chain/04051310570412465(1).pdf  
 https://deeplearning.mit.edu/  
+https://www.youtube.com/channel/UCXZCJLdBC09xxGZ6gcdrc6A  
+https://github.com/openai/gym  
 
 ##### SLAM
 * Sir Sebastian course: [AI for Robotics](https://classroom.udacity.com/courses/cs373)
