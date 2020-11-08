@@ -128,6 +128,11 @@ http://read.pudn.com/downloads142/sourcecode/others/617477/inventory%20supply%20
 https://deeplearning.mit.edu/  
 https://www.youtube.com/channel/UCXZCJLdBC09xxGZ6gcdrc6A  
 https://github.com/openai/gym  
+https://www.youtube.com/watch?v=iX5V1WpxxkY  
+http://colah.github.io/posts/2015-08-Understanding-LSTMs/  
+https://www.youtube.com/watch?v=UNmqTiOnRfg  
+https://www.youtube.com/watch?v=WCUNPb-5EYI  
+
 
 ##### SLAM
 * Sir Sebastian course: [AI for Robotics](https://classroom.udacity.com/courses/cs373)
