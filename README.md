@@ -121,7 +121,8 @@ https://arxiv.org/pdf/1609.05143.pdf
 https://openai.com/blog/ingredients-for-robotics-research/  
 https://arxiv.org/pdf/1708.05866.pdf  
 https://openai.com/resources/    
-https://www.groundai.com/project/self-supervised-deep-reinforcement-learning-with-generalized-computation-graphs-for-robot-navigation/
+https://www.groundai.com/project/self-supervised-deep-reinforcement-learning-with-generalized-computation-graphs-for-robot-navigation/  
+http://raiahadsell.com/uploads/3/6/4/2/36428762/erf2017_keynote_talk.pdf
 
 ##### SLAM
 * Sir Sebastian course: [AI for Robotics](https://classroom.udacity.com/courses/cs373)
