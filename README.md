@@ -132,6 +132,8 @@ https://www.youtube.com/watch?v=iX5V1WpxxkY
 http://colah.github.io/posts/2015-08-Understanding-LSTMs/  
 https://www.youtube.com/watch?v=UNmqTiOnRfg  
 https://www.youtube.com/watch?v=WCUNPb-5EYI  
+http://twistedoakstudios.com/blog/Post554_minkowski-sums-and-differences  
+https://www.toptal.com/game/video-game-physics-part-ii-collision-detection-for-solid-objects  
 
 
 ##### SLAM
