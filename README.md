@@ -193,4 +193,18 @@ https://stats.idre.ucla.edu/other/mult-pkg/faq/general/faq-what-are-the-differen
 https://www.datacamp.com/community/tutorials/finance-python-trading   
 https://towardsdatascience.com/inferential-statistics-series-t-test-using-numpy-2718f8f9bf2f  
 https://www.zipline.io/appendix.html#zipline.pipeline.factors.Factor.rank  
-https://towardsdatascience.com/how-the-mathematics-of-fractals-can-help-predict-stock-markets-shifts-19fee5dd6574
+https://towardsdatascience.com/how-the-mathematics-of-fractals-can-help-predict-stock-markets-shifts-19fee5dd6574  
+
+#### References from C++ Nanodegree Program:  
+https://www.valgrind.org/info/  
+https://github.com/sowson/valgrind  
+https://docs.microsoft.com/en-us/visualstudio/debugger/finding-memory-leaks-using-the-crt-library?view=vs-2019  
+https://darkdust.net/files/GDB%20Cheat%20Sheet.pdf  
+https://github.com/hishamhm/htop/commit/da4877f48c70f765f8bfb60c7668e8499055662e  
+http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#S-glossary  
+https://en.cppreference.com/w/cpp/language/identifiers  
+https://github.com/CppCon  
+
+
+https://github.com/CppCon/CppCon2017  
+
