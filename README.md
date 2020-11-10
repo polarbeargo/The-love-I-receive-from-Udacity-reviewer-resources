@@ -204,5 +204,5 @@ https://github.com/hishamhm/htop/commit/da4877f48c70f765f8bfb60c7668e8499055662e
 http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#S-glossary  
 https://en.cppreference.com/w/cpp/language/identifiers  
 https://github.com/CppCon  
-
+https://en.cppreference.com/w/cpp/language/raii  
 
