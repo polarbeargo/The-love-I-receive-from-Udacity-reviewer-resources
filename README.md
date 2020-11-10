@@ -206,5 +206,3 @@ https://en.cppreference.com/w/cpp/language/identifiers
 https://github.com/CppCon  
 
 
-https://github.com/CppCon/CppCon2017  
-
