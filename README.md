@@ -205,4 +205,6 @@ http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#S-glossary
 https://en.cppreference.com/w/cpp/language/identifiers  
 https://github.com/CppCon  
 https://en.cppreference.com/w/cpp/language/raii  
+http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#rsmart-smart-pointers  
+
 
