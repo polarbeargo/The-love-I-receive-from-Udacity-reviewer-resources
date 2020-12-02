@@ -194,6 +194,11 @@ https://www.datacamp.com/community/tutorials/finance-python-trading
 https://towardsdatascience.com/inferential-statistics-series-t-test-using-numpy-2718f8f9bf2f  
 https://www.zipline.io/appendix.html#zipline.pipeline.factors.Factor.rank  
 https://towardsdatascience.com/how-the-mathematics-of-fractals-can-help-predict-stock-markets-shifts-19fee5dd6574  
+http://www.econ.yale.edu/~shiller/  
+https://www.nytimes.com/search/?query=economic+view+and+shiller&srchst=nyt  
+https://www.fooledbyrandomness.com/  
+https://iai.tv/video/how-do-you-solve-a-problem-like-uncertainty  
+https://www.nytimes.com/2012/12/24/opinion/stabilization-wont-save-us.html  
 
 #### References from C++ Nanodegree Program:  
 https://www.valgrind.org/info/  
