@@ -201,6 +201,7 @@ https://iai.tv/video/how-do-you-solve-a-problem-like-uncertainty
 https://www.nytimes.com/2012/12/24/opinion/stabilization-wont-save-us.html  
 
 #### References from C++ Nanodegree Program:  
+https://www.stroustrup.com/papers.html  
 https://www.valgrind.org/info/  
 https://github.com/sowson/valgrind  
 https://docs.microsoft.com/en-us/visualstudio/debugger/finding-memory-leaks-using-the-crt-library?view=vs-2019  
