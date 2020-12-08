@@ -137,7 +137,7 @@ https://www.toptal.com/game/video-game-physics-part-ii-collision-detection-for-s
 
 
 ##### SLAM
-* Sir Sebastian course: [AI for Robotics](https://classroom.udacity.com/courses/cs373)
+* Sir Sebastian Thrun's course: [AI for Robotics](https://classroom.udacity.com/courses/cs373)
 
 * Interesting content on SLAM  
 [facebook & SLAM: Bringing art to life through technology](https://ai.facebook.com/blog/slam-bringing-art-to-life-through-technology/)  
@@ -199,6 +199,7 @@ https://www.nytimes.com/search/?query=economic+view+and+shiller&srchst=nyt
 https://www.fooledbyrandomness.com/  
 https://iai.tv/video/how-do-you-solve-a-problem-like-uncertainty  
 https://www.nytimes.com/2012/12/24/opinion/stabilization-wont-save-us.html  
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1921537  
 
 #### References from C++ Nanodegree Program:  
 https://www.stroustrup.com/papers.html  
