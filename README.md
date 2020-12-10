@@ -216,4 +216,5 @@ https://en.cppreference.com/w/cpp/language/raii
 http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#rsmart-smart-pointers  
 https://en.cppreference.com/w/cpp/memory  
 
-
+#### References from Computer Vision Nanodegree Program:  
+https://blogs.nvidia.com/blog/2017/06/09/drone-navigates-without-gps/
