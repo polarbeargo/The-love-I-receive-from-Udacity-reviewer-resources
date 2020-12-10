@@ -201,6 +201,7 @@ https://iai.tv/video/how-do-you-solve-a-problem-like-uncertainty
 https://www.nytimes.com/2012/12/24/opinion/stabilization-wont-save-us.html  
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1921537  
 http://www.statsmodels.org/dev/generated/statsmodels.stats.diagnostic.het_breuschpagan.html  
+https://www.investopedia.com/articles/trading/08/turtle-trading.asp  
 
 #### References from C++ Nanodegree Program:  
 https://www.stroustrup.com/papers.html  
