@@ -216,6 +216,9 @@ https://github.com/CppCon
 https://en.cppreference.com/w/cpp/language/raii  
 http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#rsmart-smart-pointers  
 https://en.cppreference.com/w/cpp/memory  
+http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#c135-use-multiple-inheritance-to-represent-multiple-distinct-interfaces  
+http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#c136-use-multiple-inheritance-to-represent-the-union-of-implementation-attributes  
+
 
 #### References from Computer Vision Nanodegree Program:  
 https://blogs.nvidia.com/blog/2017/06/09/drone-navigates-without-gps/
