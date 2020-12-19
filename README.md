@@ -223,3 +223,4 @@ http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#c136-use-multiple-in
 #### References from Computer Vision Nanodegree Program:  
 https://blogs.nvidia.com/blog/2017/06/09/drone-navigates-without-gps/  
 https://github.com/udacity/CVND_Exercises  
+https://www.affectiva.com/  
