@@ -218,6 +218,14 @@ http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#rsmart-smart-pointer
 https://en.cppreference.com/w/cpp/memory  
 http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#c135-use-multiple-inheritance-to-represent-multiple-distinct-interfaces  
 http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#c136-use-multiple-inheritance-to-represent-the-union-of-implementation-attributes  
+https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#Rh-get  
+http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#c2-use-class-if-the-class-has-an-invariant-use-struct-if-the-data-members-can-vary-independently  
+https://en.cppreference.com/w/cpp/chrono  
+https://www.geeksforgeeks.org/c-data-types/  
+https://en.cppreference.com/w/cpp/language/types  
+https://en.cppreference.com/w/cpp/language/default_constructor  
+http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#cctor-constructors-assignments-and-destructors  
+https://docs.microsoft.com/en-us/cpp/cpp/scope-resolution-operator?view=msvc-160&viewFallbackFrom=vs-2019  
 
 
 #### References from Computer Vision Nanodegree Program:  
