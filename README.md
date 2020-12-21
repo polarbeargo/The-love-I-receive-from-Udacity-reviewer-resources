@@ -226,7 +226,24 @@ https://en.cppreference.com/w/cpp/language/types
 https://en.cppreference.com/w/cpp/language/default_constructor  
 http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#cctor-constructors-assignments-and-destructors  
 https://docs.microsoft.com/en-us/cpp/cpp/scope-resolution-operator?view=msvc-160&viewFallbackFrom=vs-2019  
-
+https://visualstudiomagazine.com/Kunk0211  
+https://github.com/hishamhm/htop  
+https://www.learncpp.com/  
+https://www.geeksforgeeks.org/basic-concepts-of-object-oriented-programming-using-c/  
+https://www.youtube.com/watch?v=ZOKLjJF54Xc  
+https://www.roberthalf.com/blog/salaries-and-skills/4-advantages-of-object-oriented-programming  
+https://www.geeksforgeeks.org/differences-between-procedural-and-object-oriented-programming/  
+https://ms.sapientia.ro/~manyi/teaching/c++/CPP_v1.1.pdf  
+https://www.youtube.com/playlist?list=PLqCJpWy5FohcehaXlCIt8sVBHBFFRVWsx  
+https://www.youtube.com/watch?v=-DP1i2ZU9gk  
+https://www.youtube.com/watch?v=xXXt3htgDok&list=PLrOv9FMX8xJE8NgepZR1etrsU63fDDGxO&index=18  
+https://www.youtube.com/watch?v=kxKKHKSMGIg&t=651s  
+https://www.youtube.com/watch?v=iChalAKXffs  
+https://www.learncpp.com/cpp-tutorial/configuring-your-compiler-warning-and-error-levels/  
+https://www.viva64.com/en/k/0048/  
+https://github.com/boostorg/boost/wiki/Guidelines:-Warnings  
+https://software.intel.com/en-us/cpp-compiler-developer-guide-and-reference-remarks-warnings-and-errors  
+http://man7.org/linux/man-pages/man5/proc.5.html  
 
 #### References from Computer Vision Nanodegree Program:  
 https://blogs.nvidia.com/blog/2017/06/09/drone-navigates-without-gps/  
