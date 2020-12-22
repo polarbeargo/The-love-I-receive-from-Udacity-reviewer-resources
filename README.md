@@ -244,6 +244,9 @@ https://www.viva64.com/en/k/0048/
 https://github.com/boostorg/boost/wiki/Guidelines:-Warnings  
 https://software.intel.com/en-us/cpp-compiler-developer-guide-and-reference-remarks-warnings-and-errors  
 http://man7.org/linux/man-pages/man5/proc.5.html  
+http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#S-glossary  
+http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#c4-make-a-function-a-member-only-if-it-needs-direct-access-to-the-representation-of-a-class  
+
 
 #### References from Computer Vision Nanodegree Program:  
 https://blogs.nvidia.com/blog/2017/06/09/drone-navigates-without-gps/  
