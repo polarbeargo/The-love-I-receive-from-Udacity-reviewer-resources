@@ -253,3 +253,5 @@ https://blogs.nvidia.com/blog/2017/06/09/drone-navigates-without-gps/
 https://github.com/udacity/CVND_Exercises  
 https://www.affectiva.com/  
 https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/  
+https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_imgproc/py_transforms/py_fourier_transform/py_fourier_transform.html  
+
