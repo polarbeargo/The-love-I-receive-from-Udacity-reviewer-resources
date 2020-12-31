@@ -254,4 +254,8 @@ https://github.com/udacity/CVND_Exercises
 https://www.affectiva.com/  
 https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/  
 https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_imgproc/py_transforms/py_fourier_transform/py_fourier_transform.html  
+https://bair.berkeley.edu/blog/2018/05/17/delayed-impact/  
+https://hbr.org/2018/02/can-we-keep-our-biases-from-creeping-into-ai?utm_campaign=hbr&utm_source=twitter&utm_medium=social  
+https://www.ted.com/talks/joy_buolamwini_how_i_m_fighting_bias_in_algorithms  
+
 
