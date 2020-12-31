@@ -258,4 +258,9 @@ https://bair.berkeley.edu/blog/2018/05/17/delayed-impact/
 https://hbr.org/2018/02/can-we-keep-our-biases-from-creeping-into-ai?utm_campaign=hbr&utm_source=twitter&utm_medium=social  
 https://www.ted.com/talks/joy_buolamwini_how_i_m_fighting_bias_in_algorithms  
 
+#### References from Bertelsmann Scholarship Introduction to AI in Business Nanodegree Program:  
+https://cezannec.github.io/Intro_Neural_Networks/  
+https://www.pnas.org/content/pnas/114/50/13108.full.pdf  
+https://www.pnas.org/content/pnas/suppl/2017/11/27/1700035114.DCSupplemental/pnas.1700035114.sapp.pdf  
+https://papers.nips.cc/paper/2016/file/a486cd07e4ac3d270571622f4f316ec5-Paper.pdf  
 
