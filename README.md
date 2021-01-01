@@ -1,6 +1,6 @@
 # The-love-I-receive-from-Udacity-reviewer-resources
 
-My gratitude to Sir Sebastion Thrun, Sir Peter Norvig, Sir Thad Starner,Sir Nicholas Roy, Sir David J. Malan, Sir David Silver, Sir Raffaello D'Andrea, Sir Ryan, Madam Dana Sheahen, Instructor Alexis Cook, Instructor Erica, Instructor Karim, Instructor Julia, Sir Stephen, Sir Aaron Brown, Sir Andy, Instructor Stefanie, Instructor Angela, Sir Jonathan, Instructor Liz, Instructor Eddie, Instructor Miriam, Instructor Cindy, Instructor Brok, Instructor Arpan, Sir Jake, Sir Michael Virgo, Sir Tucker and Sir Akshit.  
+My gratitude to Sir Sebastion Thrun, Sir Peter Norvig, Sir Thad Starner,Sir Nicholas Roy, Sir David J. Malan, Sir David Silver, Sir Raffaello D'Andrea, Sir Ryan, Madam Dana Sheahen, Instructor Alexis Cook, Instructor Cezanne Camacho, Instructor Erica, Instructor Karim, Instructor Julia, Sir Stephen, Sir Aaron Brown, Sir Andy, Instructor Stefanie, Instructor Angela, Sir Jonathan, Instructor Liz, Instructor Eddie, Instructor Miriam, Instructor Cindy, Instructor Brok, Instructor Arpan, Sir Jake, Sir Michael Virgo, Sir Tucker and Sir Akshit.  
 
 To memorize the journey start from self-driving Car Engineer Nanodegree Program to Artificial Intelligence Nanodegree Program to Flying Car Nanodegree Program then Robotics Software Nanodegree Program and CS50: Introduction to Computer Science 2018, To memorize the year of my enrollment in Udacity from 2017 to present.   
   
@@ -257,6 +257,8 @@ https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_imgproc/py_transforms/py_fo
 https://bair.berkeley.edu/blog/2018/05/17/delayed-impact/  
 https://hbr.org/2018/02/can-we-keep-our-biases-from-creeping-into-ai?utm_campaign=hbr&utm_source=twitter&utm_medium=social  
 https://www.ted.com/talks/joy_buolamwini_how_i_m_fighting_bias_in_algorithms  
+https://towardsdatascience.com/teaching-cars-to-see-advanced-lane-detection-using-computer-vision-87a01de0424f  
+https://video.udacity-data.com/topher/2018/June/5b2c01ba_gender-shades-paper/gender-shades-paper.pdf  
 
 #### References from Bertelsmann Scholarship Introduction to AI in Business Nanodegree Program:  
 https://cezannec.github.io/Intro_Neural_Networks/  
