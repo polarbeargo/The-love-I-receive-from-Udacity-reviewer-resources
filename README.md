@@ -260,6 +260,8 @@ https://www.ted.com/talks/joy_buolamwini_how_i_m_fighting_bias_in_algorithms
 https://towardsdatascience.com/teaching-cars-to-see-advanced-lane-detection-using-computer-vision-87a01de0424f  
 https://video.udacity-data.com/topher/2018/June/5b2c01ba_gender-shades-paper/gender-shades-paper.pdf  
 https://godatadriven.com/blog/fairness-in-machine-learning-with-pytorch/  
+https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_feature2d/py_features_harris/py_features_harris.html  
+https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_contours/py_table_of_contents_contours/py_table_of_contents_contours.html  
 
 #### References from Bertelsmann Scholarship Introduction to AI in Business Nanodegree Program:  
 https://cezannec.github.io/Intro_Neural_Networks/  
