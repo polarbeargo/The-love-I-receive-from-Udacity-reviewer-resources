@@ -209,6 +209,10 @@ http://blog.echen.me/2017/05/30/exploring-lstms/
 http://karpathy.github.io/2015/05/21/rnn-effectiveness/  
 https://www.youtube.com/watch?v=iX5V1WpxxkY  
 https://www.crummy.com/software/BeautifulSoup/bs4/doc/#differences-between-parsers  
+https://github.com/udacity/deep-learning-v2-pytorch  
+https://pytorch.org/docs/stable/nn.html#recurrent-layers  
+https://video.udacity-data.com/topher/2018/October/5bc56d28_word2vec-mikolov/word2vec-mikolov.pdf  
+https://video.udacity-data.com/topher/2018/October/5bc56da8_distributed-representations-mikolov2/distributed-representations-mikolov2.pdf  
 
 
 #### References from C++ Nanodegree Program:  
