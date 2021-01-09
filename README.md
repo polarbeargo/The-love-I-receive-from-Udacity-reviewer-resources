@@ -204,6 +204,11 @@ http://www.statsmodels.org/dev/generated/statsmodels.stats.diagnostic.het_breusc
 https://www.investopedia.com/articles/trading/08/turtle-trading.asp  
 https://github.com/quantopian/alphalens/blob/master/alphalens/performance.py  
 https://quantopian.github.io/alphalens/alphalens.html?highlight=alphalens%20performance#alphalens.utils.get_clean_factor_and_forward_returns  
+http://colah.github.io/posts/2015-08-Understanding-LSTMs/  
+http://blog.echen.me/2017/05/30/exploring-lstms/  
+http://karpathy.github.io/2015/05/21/rnn-effectiveness/  
+https://www.youtube.com/watch?v=iX5V1WpxxkY  
+https://www.crummy.com/software/BeautifulSoup/bs4/doc/#differences-between-parsers  
 
 
 #### References from C++ Nanodegree Program:  
