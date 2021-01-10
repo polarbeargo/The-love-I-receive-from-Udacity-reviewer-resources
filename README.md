@@ -230,7 +230,7 @@ https://towardsdatascience.com/decision-trees-in-machine-learning-641b9c4e8052
 https://heartbeat.fritz.ai/introduction-to-machine-learning-model-evaluation-fa859e1b2d7f  
 https://towardsdatascience.com/feature-engineering-for-machine-learning-3a5e293a5114  
 https://towardsdatascience.com/feature-selection-techniques-in-machine-learning-with-python-f24e7da3f36e  
-https://www.quora.com/What-is-the-difference-between-autocorrelation-cross-correlation
+https://www.quora.com/What-is-the-difference-between-autocorrelation-cross-correlation  
 https://pythonprogramming.net/rolling-statistics-data-analysis-python-pandas-tutorial/  
 https://rabinpoudyal.medium.com/train-test-split-and-cross-validation-in-python-434ecba10909  
 https://datascience.stackexchange.com/questions/15135/train-test-validation-set-splitting-in-sklearn  
