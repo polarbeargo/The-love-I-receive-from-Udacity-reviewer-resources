@@ -219,6 +219,9 @@ https://scikit-learn.org/stable/auto_examples/model_selection/plot_learning_curv
 https://towardsdatascience.com/interpretable-machine-learning-with-xgboost-9ec80d148d27  
 https://proceedings.neurips.cc/paper/2017/file/8a20a8621978632d76c43dfd28b67767-Paper.pdf  
 https://github.com/slundberg/shap  
+https://github.com/Polarbeargo/artificial-intelligence-for-trading/blob/master/quiz/m7/m7l6/calculate_shap_solution.ipynb  
+https://arxiv.org/pdf/1802.03888.pdf  
+https://github.com/Polarbeargo/artificial-intelligence-for-trading/blob/master/quiz/m7/m7l6/tree_shap_solution.ipynb  
 
 #### References from C++ Nanodegree Program:  
 https://www.stroustrup.com/papers.html  
