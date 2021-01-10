@@ -243,6 +243,11 @@ https://www.programcreek.com/python/example/86713/sklearn.ensemble.BaggingClassi
 http://datagrid.lbl.gov/backtest/index.php  
 https://web.stanford.edu/~hastie/Papers/ESLII.pdf  
 https://medium.com/kaggle-blog  
+https://arxiv.org/pdf/1811.05230.pdf  
+http://scipy-lectures.org/advanced/mathematical_optimization/  
+http://web.stanford.edu/class/ee364b/lectures.html  
+https://cims.nyu.edu/~ritter/ritter2017machine.pdf  
+https://cims.nyu.edu/~ritter/  
 
 #### References from C++ Nanodegree Program:  
 https://www.stroustrup.com/papers.html  
