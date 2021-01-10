@@ -216,7 +216,9 @@ https://video.udacity-data.com/topher/2018/October/5bc56da8_distributed-represen
 https://github.com/pytorch/tnt/blob/master/torchnet/dataset/tensordataset.py  
 https://stocktwits.com  
 https://scikit-learn.org/stable/auto_examples/model_selection/plot_learning_curve.html  
-
+https://towardsdatascience.com/interpretable-machine-learning-with-xgboost-9ec80d148d27  
+https://proceedings.neurips.cc/paper/2017/file/8a20a8621978632d76c43dfd28b67767-Paper.pdf  
+https://github.com/slundberg/shap  
 
 #### References from C++ Nanodegree Program:  
 https://www.stroustrup.com/papers.html  
