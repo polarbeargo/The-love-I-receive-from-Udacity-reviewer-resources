@@ -240,6 +240,9 @@ https://stackoverflow.com/questions/10032579/how-to-evaluate-a-dataset-for-class
 https://www.datatechnotes.com/2019/03/classification-with-bagging-classifier.html  
 https://www.geeksforgeeks.org/ml-bagging-classifier/  
 https://www.programcreek.com/python/example/86713/sklearn.ensemble.BaggingClassifier  
+http://datagrid.lbl.gov/backtest/index.php  
+https://web.stanford.edu/~hastie/Papers/ESLII.pdf  
+https://medium.com/kaggle-blog  
 
 #### References from C++ Nanodegree Program:  
 https://www.stroustrup.com/papers.html  
