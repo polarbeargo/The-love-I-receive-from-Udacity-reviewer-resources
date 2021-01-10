@@ -1,6 +1,6 @@
 # The-love-I-receive-from-Udacity-reviewer-resources
 
-My gratitude to Sir Sebastion Thrun, Sir Peter Norvig, Sir Thad Starner,Sir Nicholas Roy, Sir David J. Malan, Sir David Silver, Sir Raffaello D'Andrea, Sir Ryan, Madam Dana Sheahen, Instructor Alexis Cook, Instructor Cezanne Camacho, Instructor Erica, Instructor Karim, Instructor Julia, Sir Stephen, Sir Aaron Brown, Sir Andy, Instructor Stefanie, Instructor Angela, Sir Jonathan Larkin, Sir Gordon Ritter, Sir Justin Sheetz, Instructor Luis Serrano, Instructor Liz Otto Hamel, Instructor Eddie Shyu, Instructor Josh Bernhard, Instructor Parnian Barekatain, Instructor Miriam, Instructor Mat Leonard, Instructor Cindy, Instructor Brok Bucholtz, Instructor Arpan Chakraborty, Instructor Juan Delgado, Sir Jake, Sir Michael Virgo, Sir Tucker, Sir Akshit, Brenda.Udacity, Palak.Udacity and Grace.Udacity.  
+My gratitude to Sir Sebastion Thrun, Sir Peter Norvig, Sir Thad Starner,Sir Nicholas Roy, Sir David J. Malan, Sir David Silver, Sir Raffaello D'Andrea, Sir Ryan, Madam Dana Sheahen, Instructor Alexis Cook, Instructor Cezanne Camacho, Instructor Erica, Instructor Karim, Instructor Julia, Sir Stephen, Sir Aaron Brown, Sir Andy, Instructor Stefanie, Instructor Angela, Sir Jonathan Larkin, Sir Gordon Ritter, Sir Justin Sheetz, Instructor Luis Serrano, Instructor Liz Otto Hamel, Instructor Eddie Shyu, Instructor Josh Bernhard, Instructor Parnian Barekatain, Instructor Miriam, Instructor Mat Leonard, Instructor Cindy, Instructor Brok Bucholtz, Instructor Arpan Chakraborty, Instructor Juan Delgado, Sir Jake, Sir Michael Virgo, Sir Tucker, Instructor Juno Lee, Sir Akshit, Brenda.Udacity, Palak.Udacity and Grace.Udacity.  
 
 To memorize the journey start from self-driving Car Engineer Nanodegree Program to Artificial Intelligence Nanodegree Program to Flying Car Nanodegree Program then Robotics Software Nanodegree Program and CS50: Introduction to Computer Science 2018, To memorize the year of my enrollment in Udacity from 2017 to present.   
   
@@ -222,6 +222,24 @@ https://github.com/slundberg/shap
 https://github.com/Polarbeargo/artificial-intelligence-for-trading/blob/master/quiz/m7/m7l6/calculate_shap_solution.ipynb  
 https://arxiv.org/pdf/1802.03888.pdf  
 https://github.com/Polarbeargo/artificial-intelligence-for-trading/blob/master/quiz/m7/m7l6/tree_shap_solution.ipynb  
+https://shap.readthedocs.io/en/latest/  
+https://github.com/Polarbeargo/artificial-intelligence-for-trading/blob/master/quiz/m7/m7l6/rank_features_solution.ipynb  
+https://www.youtube.com/watch?v=Q8rTrmqUQsU  
+https://stackabuse.com/overview-of-classification-methods-in-python-with-scikit-learn/  
+https://towardsdatascience.com/decision-trees-in-machine-learning-641b9c4e8052  
+https://heartbeat.fritz.ai/introduction-to-machine-learning-model-evaluation-fa859e1b2d7f  
+https://towardsdatascience.com/feature-engineering-for-machine-learning-3a5e293a5114  
+https://towardsdatascience.com/feature-selection-techniques-in-machine-learning-with-python-f24e7da3f36e  
+https://www.quora.com/What-is-the-difference-between-autocorrelation-cross-correlation
+https://pythonprogramming.net/rolling-statistics-data-analysis-python-pandas-tutorial/  
+https://rabinpoudyal.medium.com/train-test-split-and-cross-validation-in-python-434ecba10909  
+https://datascience.stackexchange.com/questions/15135/train-test-validation-set-splitting-in-sklearn  
+https://towardsdatascience.com/understanding-random-forest-58381e0602d2  
+https://towardsdatascience.com/fighting-imbalance-data-set-with-code-examples-f2a3880700a6  
+https://stackoverflow.com/questions/10032579/how-to-evaluate-a-dataset-for-class-overlapping  
+https://www.datatechnotes.com/2019/03/classification-with-bagging-classifier.html  
+https://www.geeksforgeeks.org/ml-bagging-classifier/  
+https://www.programcreek.com/python/example/86713/sklearn.ensemble.BaggingClassifier  
 
 #### References from C++ Nanodegree Program:  
 https://www.stroustrup.com/papers.html  
