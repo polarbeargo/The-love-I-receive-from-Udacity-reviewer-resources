@@ -253,6 +253,7 @@ https://towardsdatascience.com/backtesting-trading-strategies-less-sorcery-and-m
 https://trade.collective2.com/ai-powered-strategy-backtesting-and-forecasting-platform-neotic-integrates-with-collective2-to-provide-automated-trading/  
 https://medium.com/@alexrachnog/ai-for-algorithmic-trading-7-mistakes-that-could-make-me-broke-a41f94048b8c  
 https://www.naftaliharris.com/blog/visualizing-k-means-clustering/  
+http://jalammar.github.io  
 
 #### References from C++ Nanodegree Program:  
 https://www.stroustrup.com/papers.html  
