@@ -1,6 +1,6 @@
 # The-love-I-receive-from-Udacity-reviewer-resources
 
-My gratitude to Sir Sebastion Thrun, Sir Peter Norvig, Sir Thad Starner,Sir Nicholas Roy, Sir David J. Malan, Sir David Silver, Sir Raffaello D'Andrea, Sir Ryan, Madam Dana Sheahen, Instructor Alexis Cook, Instructor Cezanne Camacho, Instructor Erica, Instructor Karim, Instructor Julia, Sir Stephen, Sir Aaron Brown, Sir Andy, Instructor Stefanie, Instructor Angela, Sir Jonathan Larkin, Sir Gordon Ritter, Sir Justin Sheetz, Instructor Luis Serrano, Instructor Liz Otto Hamel, Instructor Eddie Shyu, Instructor Josh Bernhard, Instructor Parnian Barekatain, Instructor Miriam, Instructor Mat Leonard, Instructor Cindy, Instructor Brok Bucholtz, Instructor Arpan Chakraborty, Instructor Juan Delgado, Sir Jake, Sir Michael Virgo, Sir Tucker, Instructor Juno Lee, Sir Akshit, Brenda.Udacity, Palak.Udacity and Grace.Udacity.  
+My gratitude to Sir Sebastion Thrun, Sir Peter Norvig, Sir Thad Starner,Sir Nicholas Roy, Sir David J. Malan, Sir David Silver, Sir Raffaello D'Andrea, Sir Ryan, Madam Dana Sheahen, Instructor Alexis Cook, Instructor Cezanne Camacho, Instructor Erica, Instructor Karim, Instructor Julia, Sir Stephen, Sir Aaron Brown, Sir Andy, Instructor Stefanie, Instructor Angela, Sir Jonathan Larkin, Sir Gordon Ritter, Sir Justin Sheetz, Instructor Luis Serrano, Instructor Liz Otto Hamel, Instructor Eddie Shyu, Instructor Josh Bernhard, Instructor Parnian Barekatain, Instructor Miriam, Instructor Mat Leonard, Instructor Cindy, Instructor Brok Bucholtz, Instructor Arpan Chakraborty, Instructor Juan Delgado, Sir Jake, Sir Michael Virgo, Sir Tucker, Instructor Juno Lee, Sir Akshit, Brenda.Udacity, Palak.Udacity, Grace.Udacity Instructor Grant Sanderson, Instructor Ortal and Instructor Jennifer Staab.  
 
 To memorize the journey start from self-driving Car Engineer Nanodegree Program to Artificial Intelligence Nanodegree Program to Flying Car Nanodegree Program then Robotics Software Nanodegree Program and CS50: Introduction to Computer Science 2018, To memorize the year of my enrollment in Udacity from 2017 to present.   
   
@@ -248,6 +248,10 @@ http://scipy-lectures.org/advanced/mathematical_optimization/
 http://web.stanford.edu/class/ee364b/lectures.html  
 https://cims.nyu.edu/~ritter/ritter2017machine.pdf  
 https://cims.nyu.edu/~ritter/  
+https://towardsdatascience.com/backtesting-your-first-trading-strategy-ad3977f3f2a  
+https://towardsdatascience.com/backtesting-trading-strategies-less-sorcery-and-more-statistics-on-your-side-241ac41d18b0  
+https://trade.collective2.com/ai-powered-strategy-backtesting-and-forecasting-platform-neotic-integrates-with-collective2-to-provide-automated-trading/  
+https://medium.com/@alexrachnog/ai-for-algorithmic-trading-7-mistakes-that-could-make-me-broke-a41f94048b8c  
 
 #### References from C++ Nanodegree Program:  
 https://www.stroustrup.com/papers.html  
