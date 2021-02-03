@@ -314,6 +314,7 @@ https://video.udacity-data.com/topher/2018/June/5b2c01ba_gender-shades-paper/gen
 https://godatadriven.com/blog/fairness-in-machine-learning-with-pytorch/  
 https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_feature2d/py_features_harris/py_features_harris.html  
 https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_contours/py_table_of_contents_contours/py_table_of_contents_contours.html  
+https://pytorch.org/docs/stable/nn.html#pooling-layers  
 
 #### References from Bertelsmann Scholarship Introduction to AI in Business Nanodegree Program:  
 https://cezannec.github.io/Intro_Neural_Networks/  
@@ -321,3 +322,4 @@ https://www.pnas.org/content/pnas/114/50/13108.full.pdf
 https://www.pnas.org/content/pnas/suppl/2017/11/27/1700035114.DCSupplemental/pnas.1700035114.sapp.pdf  
 https://papers.nips.cc/paper/2016/file/a486cd07e4ac3d270571622f4f316ec5-Paper.pdf  
 https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab  
+
