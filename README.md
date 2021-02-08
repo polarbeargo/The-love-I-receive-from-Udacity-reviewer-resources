@@ -315,6 +315,9 @@ https://godatadriven.com/blog/fairness-in-machine-learning-with-pytorch/
 https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_feature2d/py_features_harris/py_features_harris.html  
 https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_contours/py_table_of_contents_contours/py_table_of_contents_contours.html  
 https://pytorch.org/docs/stable/nn.html#pooling-layers  
+https://pytorch.org/docs/master/optim.html  
+https://pytorch.org/docs/master/nn.html#loss-functions  
+https://medium.com/@smallfishbigsea/a-walk-through-of-alexnet-6cbd137a5637  
 
 #### References from Bertelsmann Scholarship Introduction to AI in Business Nanodegree Program:  
 https://cezannec.github.io/Intro_Neural_Networks/  
