@@ -326,5 +326,5 @@ https://www.pnas.org/content/pnas/114/50/13108.full.pdf
 https://www.pnas.org/content/pnas/suppl/2017/11/27/1700035114.DCSupplemental/pnas.1700035114.sapp.pdf  
 https://papers.nips.cc/paper/2016/file/a486cd07e4ac3d270571622f4f316ec5-Paper.pdf  
 https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab  
-https://medium.com/the-theory-of-everything/understanding-activation-functions-in-neural-networks-9491262884e0  
-
+https://medium.com/the-theory-of-everything/understanding-activation-functions-in-neural-networks-9491262884e0   
+https://www.washingtonpost.com/graphics/2018/business/alexa-does-not-understand-your-accent/?noredirect=on&utm_term=.a17219a26daa
