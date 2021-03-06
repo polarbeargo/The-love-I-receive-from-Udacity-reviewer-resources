@@ -299,6 +299,11 @@ http://man7.org/linux/man-pages/man5/proc.5.html
 http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#S-glossary  
 http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#c4-make-a-function-a-member-only-if-it-needs-direct-access-to-the-representation-of-a-class  
 https://en.cppreference.com/w/cpp/language/operators  
+https://gcc.gnu.org/  
+https://www.gnu.org/gnu/thegnuproject.en.html  
+https://www.gnu.org/software/make/manual/html_node/index.html#Top  
+https://cmake.org/  
+
 
 #### References from Computer Vision Nanodegree Program:  
 https://blogs.nvidia.com/blog/2017/06/09/drone-navigates-without-gps/  
@@ -327,4 +332,6 @@ https://www.pnas.org/content/pnas/suppl/2017/11/27/1700035114.DCSupplemental/pna
 https://papers.nips.cc/paper/2016/file/a486cd07e4ac3d270571622f4f316ec5-Paper.pdf  
 https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab  
 https://medium.com/the-theory-of-everything/understanding-activation-functions-in-neural-networks-9491262884e0   
-https://www.washingtonpost.com/graphics/2018/business/alexa-does-not-understand-your-accent/?noredirect=on&utm_term=.a17219a26daa
+https://www.washingtonpost.com/graphics/2018/business/alexa-does-not-understand-your-accent/?noredirect=on&utm_term=.a17219a26daa  
+https://github.com/topics/video-annotation   
+https://www.invisionapp.com/design-defined/mockup/  
