@@ -335,3 +335,5 @@ https://medium.com/the-theory-of-everything/understanding-activation-functions-i
 https://www.washingtonpost.com/graphics/2018/business/alexa-does-not-understand-your-accent/?noredirect=on&utm_term=.a17219a26daa  
 https://github.com/topics/video-annotation   
 https://www.invisionapp.com/design-defined/mockup/  
+https://www.figure-eight.com/dataset/parking-sign-detection/    
+https://www.figure-eight.com/datasets/
