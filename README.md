@@ -1,6 +1,6 @@
 # The-love-I-receive-from-Udacity-reviewer-resources
 
-My gratitude to Sir Sebastion Thrun, Instructor Katie Malone, Sir Peter Norvig, Sir Thad Starner,Sir Nicholas Roy, Sir David J. Malan, Sir David Silver, Sir Raffaello D'Andrea, Sir Ryan, Instructor Jay Alammar, Madam Dana Sheahen, Instructor Alexis Cook, Instructor Cezanne Camacho, Instructor Erica, Instructor Karim, Instructor Julia, Sir Stephen, Sir Aaron Brown, Sir Andy, Instructor Stefanie, Instructor Angela, Sir Jonathan Larkin, Sir Gordon Ritter, Sir Justin Sheetz, Instructor Luis Serrano, Instructor Liz Otto Hamel, Instructor Eddie Shyu, Instructor Josh Bernhard, Instructor Parnian Barekatain, Instructor Miriam, Instructor Mat Leonard, Instructor Cindy, Instructor Brok Bucholtz, Instructor Arpan Chakraborty, Instructor Juan Delgado, Sir Jake, Sir Michael Virgo, Sir Tucker, Instructor Juno Lee, Sir Akshit, Brenda.Udacity, Palak.Udacity, Grace.Udacity, Instructor Grant Sanderson, Instructor Ortal and Instructor Jennifer Staab.  
+My gratitude to Sir Sebastion Thrun, Instructor Katie Malone, Sir Peter Norvig, Sir Thad Starner,Sir Nicholas Roy, Sir David J. Malan, Sir David Silver, Sir Raffaello D'Andrea, Sir Ryan, Instructor Jay Alammar, Madam Dana Sheahen, Instructor Alexis Cook, Instructor Cezanne Camacho, Instructor Erica, Instructor Karim, Instructor Julia, Sir Stephen, Sir Aaron Brown, Sir Andy, Instructor Stefanie, Instructor Angela, Sir Andrew Trask, Sir Jonathan Larkin, Sir Gordon Ritter, Sir Justin Sheetz, Instructor Luis Serrano, Instructor Liz Otto Hamel, Instructor Eddie Shyu, Instructor Josh Bernhard, Instructor Parnian Barekatain, Instructor Miriam, Instructor Mat Leonard, Instructor Cindy, Instructor Brok Bucholtz, Instructor Arpan Chakraborty, Instructor Juan Delgado, Sir Jake, Sir Michael Virgo, Sir Tucker, Instructor Juno Lee, Sir Akshit, Brenda.Udacity, Palak.Udacity, Grace.Udacity, Instructor Grant Sanderson, Instructor Ortal and Instructor Jennifer Staab.  
 
 To memorize the journey start from self-driving Car Engineer Nanodegree Program to Artificial Intelligence Nanodegree Program to Flying Car Nanodegree Program then Robotics Software Nanodegree Program and CS50: Introduction to Computer Science 2018, To memorize the year of my enrollment in Udacity from 2017 to present.   
   
@@ -324,6 +324,7 @@ https://pytorch.org/docs/master/optim.html
 https://pytorch.org/docs/master/nn.html#loss-functions  
 https://medium.com/@smallfishbigsea/a-walk-through-of-alexnet-6cbd137a5637  
 https://experiments.withgoogle.com/what-neural-nets-see  
+https://github.com/alexisbcook/tsne  
 
 #### References from Bertelsmann Scholarship Introduction to AI in Business Nanodegree Program:  
 https://cezannec.github.io/Intro_Neural_Networks/  
