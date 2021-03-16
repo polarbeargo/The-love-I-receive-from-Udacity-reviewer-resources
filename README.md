@@ -325,6 +325,7 @@ https://pytorch.org/docs/master/nn.html#loss-functions
 https://medium.com/@smallfishbigsea/a-walk-through-of-alexnet-6cbd137a5637  
 https://experiments.withgoogle.com/what-neural-nets-see  
 https://github.com/alexisbcook/tsne  
+https://towardsdatascience.com/deep-learning-for-object-detection-a-comprehensive-review-73930816d8d9  
 
 #### References from Bertelsmann Scholarship Introduction to AI in Business Nanodegree Program:  
 https://cezannec.github.io/Intro_Neural_Networks/  
