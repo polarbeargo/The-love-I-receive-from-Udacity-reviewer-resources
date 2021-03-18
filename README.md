@@ -333,6 +333,7 @@ https://towardsdatascience.com/deep-learning-for-object-detection-a-comprehensiv
 https://github.com/jwyang/faster-rcnn.pytorch  
 https://vivek-yadav.medium.com/part-1-generating-anchor-boxes-for-yolo-like-network-for-vehicle-detection-using-kitti-dataset-b2fe033e5807  
 https://pjreddie.com/media/files/papers/YOLOv3.pdf  
+https://pjreddie.com/darknet/  
 
 #### References from Bertelsmann Scholarship Introduction to AI in Business Nanodegree Program:  
 https://cezannec.github.io/Intro_Neural_Networks/  
