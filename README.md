@@ -303,6 +303,10 @@ https://gcc.gnu.org/
 https://www.gnu.org/gnu/thegnuproject.en.html  
 https://www.gnu.org/software/make/manual/html_node/index.html#Top  
 https://cmake.org/  
+https://stackoverflow.com/questions/19736281/what-are-the-differences-between-overriding-virtual-functions-and-hiding-non-vir  
+https://isocpp.org/wiki/faq/strange-inheritance  
+http://www.cs.cmu.edu/~motionplanning/reading/PlanningforDynamicVeh-1.pdf  
+http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#Rh-override  
 
 
 #### References from Computer Vision Nanodegree Program:  
