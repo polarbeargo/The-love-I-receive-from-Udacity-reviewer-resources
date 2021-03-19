@@ -334,6 +334,14 @@ https://github.com/jwyang/faster-rcnn.pytorch
 https://vivek-yadav.medium.com/part-1-generating-anchor-boxes-for-yolo-like-network-for-vehicle-detection-using-kitti-dataset-b2fe033e5807  
 https://pjreddie.com/media/files/papers/YOLOv3.pdf  
 https://pjreddie.com/darknet/  
+https://video.udacity-data.com/topher/2018/May/5af0e03b_video-classification/video-classification.pdf  
+https://en.wikipedia.org/wiki/Vanishing_gradient_problem    
+https://en.wikipedia.org/wiki/Time_delay_neural_network   
+https://onlinelibrary.wiley.com/doi/abs/10.1207/s15516709cog1402_1  
+https://en.wikipedia.org/wiki/Recurrent_neural_network#Elman_networks_and_Jordan_networks   
+http://www.bioinf.jku.at/publications/older/2604.pdf  
+https://en.wikipedia.org/wiki/Sepp_Hochreiter    
+https://people.idsia.ch//~juergen/  
 
 #### References from Bertelsmann Scholarship Introduction to AI in Business Nanodegree Program:  
 https://cezannec.github.io/Intro_Neural_Networks/  
