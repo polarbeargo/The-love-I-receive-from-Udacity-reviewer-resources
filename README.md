@@ -342,6 +342,8 @@ https://en.wikipedia.org/wiki/Recurrent_neural_network#Elman_networks_and_Jordan
 http://www.bioinf.jku.at/publications/older/2604.pdf  
 https://en.wikipedia.org/wiki/Sepp_Hochreiter    
 https://people.idsia.ch//~juergen/  
+https://engineering.fb.com/2016/10/25/ml-applications/building-an-efficient-neural-language-model-over-a-billion-words/  
+https://arxiv.org/pdf/1511.06939.pdf  
 
 #### References from Bertelsmann Scholarship Introduction to AI in Business Nanodegree Program:  
 https://cezannec.github.io/Intro_Neural_Networks/  
