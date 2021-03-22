@@ -344,6 +344,8 @@ https://en.wikipedia.org/wiki/Sepp_Hochreiter
 https://people.idsia.ch//~juergen/  
 https://engineering.fb.com/2016/10/25/ml-applications/building-an-efficient-neural-language-model-over-a-billion-words/  
 https://arxiv.org/pdf/1511.06939.pdf  
+http://blog.datumbox.com/tuning-the-learning-rate-in-gradient-descent/  
+https://cs231n.github.io/neural-networks-3/#loss  
 
 #### References from Bertelsmann Scholarship Introduction to AI in Business Nanodegree Program:  
 https://cezannec.github.io/Intro_Neural_Networks/  
