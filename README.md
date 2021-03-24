@@ -306,8 +306,9 @@ https://cmake.org/
 https://stackoverflow.com/questions/19736281/what-are-the-differences-between-overriding-virtual-functions-and-hiding-non-vir  
 https://isocpp.org/wiki/faq/strange-inheritance  
 http://www.cs.cmu.edu/~motionplanning/reading/PlanningforDynamicVeh-1.pdf  
-http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#Rh-override  
-
+http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#Rh-override   
+https://www.onlinegdb.com/  
+https://darkdust.net/files/GDB%20Cheat%20Sheet.pdf  
 
 #### References from Computer Vision Nanodegree Program:  
 https://blogs.nvidia.com/blog/2017/06/09/drone-navigates-without-gps/  
