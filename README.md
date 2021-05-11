@@ -347,6 +347,14 @@ https://engineering.fb.com/2016/10/25/ml-applications/building-an-efficient-neur
 https://arxiv.org/pdf/1511.06939.pdf  
 http://blog.datumbox.com/tuning-the-learning-rate-in-gradient-descent/  
 https://cs231n.github.io/neural-networks-3/#loss  
+http://jalammar.github.io/  
+https://www.deeplearningbook.org/contents/guidelines.html  
+https://arxiv.org/abs/1206.5533  
+http://neuralnetworksanddeeplearning.com/chap3.html#how_to_choose_a_neural_network's_hyper-parameters  
+http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf  
+https://arxiv.org/abs/1507.05523  
+https://arxiv.org/abs/1606.02228  
+https://arxiv.org/abs/1506.02078  
 
 #### References from Bertelsmann Scholarship Introduction to AI in Business Nanodegree Program:  
 https://cezannec.github.io/Intro_Neural_Networks/  
