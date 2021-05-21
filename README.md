@@ -1,6 +1,6 @@
 # The-love-I-receive-from-Udacity-reviewer-resources
 
-My gratitude to Sir Sebastion Thrun, Instructor Katie Malone, Sir Peter Norvig, Sir Thad Starner,Sir Nicholas Roy, Sir David J. Malan, Sir David Silver, Sir Raffaello D'Andrea, Sir Ryan, Instructor Jay Alammar, Madam Dana Sheahen, Instructor Alexis Cook, Instructor Cezanne Camacho, Instructor Erica, Instructor Karim, Instructor Julia, Sir Stephen, Sir Aaron Brown, Sir Andy, Instructor Stefanie, Instructor Angela, Sir Andrew Trask, Sir Jonathan Larkin, Sir Gordon Ritter, Sir Justin Sheetz, Instructor Luis Serrano, Instructor Liz Otto Hamel, Instructor Eddie Shyu, Instructor Josh Bernhard, Instructor Parnian Barekatain, Instructor Miriam, Instructor Mat Leonard, Instructor Cindy, Instructor Brok Bucholtz, Instructor Arpan Chakraborty, Instructor Juan Delgado, Sir Jake, Sir Michael Virgo, Sir Tucker, Instructor Juno Lee, Sir Akshit, Brenda.Udacity, Palak.Udacity, Grace.Udacity, Instructor Grant Sanderson, Instructor Ortal and Instructor Jennifer Staab.  
+My gratitude to Sir Sebastion Thrun, Instructor Katie Malone, Sir Peter Norvig, Sir Thad Starner,Sir Nicholas Roy, Sir David J. Malan, Sir David Silver, Sir Raffaello D'Andrea, Sir Ryan, Instructor Jay Alammar, Madam Dana Sheahen, Instructor Alexis Cook, Instructor Cezanne Camacho, Instructor Erica, Instructor Karim, Instructor Julia, Sir Stephen, Sir Aaron Brown, Sir Andy, Instructor Stefanie, Instructor Angela, Sir Andrew Trask, Sir Jonathan Larkin, Sir Gordon Ritter, Sir Justin Sheetz, Instructor Luis Serrano, Instructor Liz Otto Hamel, Instructor Eddie Shyu, Instructor Josh Bernhard, Instructor Parnian Barekatain, Instructor Miriam, Instructor Mat Leonard, Instructor Cindy, Instructor Brok Bucholtz, Instructor Arpan Chakraborty, Instructor Juan Delgado, Sir Jake, Sir Michael Virgo, Sir Tucker, Instructor Juno Lee, Sir Akshit, Brenda.Udacity, Palak.Udacity, Grace.Udacity, Instructor Grant Sanderson, Instructor Ortal, Instructor Jennifer Staab and Instructor Amanda Moran.  
 
 To memorize the journey start from self-driving Car Engineer Nanodegree Program to Artificial Intelligence Nanodegree Program to Flying Car Nanodegree Program then Robotics Software Nanodegree Program and CS50: Introduction to Computer Science 2018, To memorize the year of my enrollment in Udacity from 2017 to present.   
   
@@ -368,3 +368,14 @@ https://github.com/topics/video-annotation
 https://www.invisionapp.com/design-defined/mockup/  
 https://www.figure-eight.com/dataset/parking-sign-detection/    
 https://www.figure-eight.com/datasets/
+
+#### References from Data Engineering Nanodegree Program:  
+https://www.postgresqltutorial.com/postgresql-upsert/  
+https://www.postgresql.org/docs/9.5/sql-insert.html  
+https://www.datastax.com/blog/allow-filtering-explained  
+https://www.xenonstack.com/blog/nosql-databases/  
+https://learnsql.com/blog/companies-that-use-postgresql-in-business/  
+https://www.w3resource.com/PostgreSQL/foreign-key-constraint.php  
+https://www.geeksforgeeks.org/introduction-of-dbms-database-management-system-set-1/  
+https://learn.panoply.io/hubfs/Data%20Engineering%20-%20Introduction%20and%20Epochs.pdf  
+https://softwareengineering.stackexchange.com/questions/375704/why-should-i-use-foreign-keys-in-database  
