@@ -355,7 +355,12 @@ http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf
 https://arxiv.org/abs/1507.05523  
 https://arxiv.org/abs/1606.02228  
 https://arxiv.org/abs/1506.02078  
-
+https://arxiv.org/pdf/1502.03044.pdf  
+https://arxiv.org/pdf/1707.07998.pdf  
+https://www.cv-foundation.org/openaccess/content_cvpr_2016/app/S19-04.pdf  
+https://arxiv.org/pdf/1507.05738.pdf  
+https://arxiv.org/pdf/1708.02711.pdf  
+https://arxiv.org/pdf/1607.05910.pdf  
 #### References from Bertelsmann Scholarship Introduction to AI in Business Nanodegree Program:  
 https://cezannec.github.io/Intro_Neural_Networks/  
 https://www.pnas.org/content/pnas/114/50/13108.full.pdf  
