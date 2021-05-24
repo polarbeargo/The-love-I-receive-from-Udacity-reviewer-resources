@@ -361,6 +361,9 @@ https://www.cv-foundation.org/openaccess/content_cvpr_2016/app/S19-04.pdf
 https://arxiv.org/pdf/1507.05738.pdf  
 https://arxiv.org/pdf/1708.02711.pdf  
 https://arxiv.org/pdf/1607.05910.pdf  
+https://arxiv.org/abs/1706.03762  
+https://www.youtube.com/watch?v=rBCqOTEfxvg  
+
 #### References from Bertelsmann Scholarship Introduction to AI in Business Nanodegree Program:  
 https://cezannec.github.io/Intro_Neural_Networks/  
 https://www.pnas.org/content/pnas/114/50/13108.full.pdf  
