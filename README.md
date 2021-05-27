@@ -309,6 +309,7 @@ http://www.cs.cmu.edu/~motionplanning/reading/PlanningforDynamicVeh-1.pdf
 http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#Rh-override   
 https://www.onlinegdb.com/  
 https://darkdust.net/files/GDB%20Cheat%20Sheet.pdf  
+https://github.com/mvirgo/Rideshare-Simulation  
 
 #### References from Computer Vision Nanodegree Program:  
 https://blogs.nvidia.com/blog/2017/06/09/drone-navigates-without-gps/  
