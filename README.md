@@ -388,6 +388,7 @@ https://www.w3resource.com/PostgreSQL/foreign-key-constraint.php
 https://www.geeksforgeeks.org/introduction-of-dbms-database-management-system-set-1/  
 https://learn.panoply.io/hubfs/Data%20Engineering%20-%20Introduction%20and%20Epochs.pdf  
 https://softwareengineering.stackexchange.com/questions/375704/why-should-i-use-foreign-keys-in-database   
+http://norvig.com/21-days.html  
 
 #### References from the Intel® Edge AI for IoT Developers Nanodegree Program:  
 https://thegradient.pub/semantic-segmentation/  
