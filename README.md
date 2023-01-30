@@ -1,10 +1,10 @@
 # The-love-I-receive-from-Udacity-reviewer-resources
 
-My gratitude to Sir Sebastion Thrun, Instructor Katie Malone, Sir Peter Norvig, Sir Thad Starner,Sir Nicholas Roy, Sir David J. Malan, Sir David Silver, Sir Raffaello D'Andrea, Sir Ryan, Instructor Jay Alammar, Madam Dana Sheahen, Instructor Alexis Cook, Instructor Cezanne Camacho, Instructor Erica, Instructor Karim, Instructor Julia, Sir Stephen, Sir Aaron Brown, Sir Andy, Instructor Stefanie, Instructor Angela, Sir Andrew Trask, Sir Jonathan Larkin, Sir Gordon Ritter, Sir Justin Sheetz, Instructor Luis Serrano, Instructor Liz Otto Hamel, Instructor Eddie Shyu, Instructor Josh Bernhard, Instructor Parnian Barekatain, Instructor Miriam, Instructor Mat Leonard, Instructor Cindy, Instructor Brok Bucholtz, Instructor Arpan Chakraborty, Instructor Juan Delgado, Sir Jake, Sir Michael Virgo, Sir Tucker, Instructor Juno Lee, Sir Akshit, Brenda.Udacity, Palak.Udacity, Grace.Udacity, Instructor Grant Sanderson, Instructor Ortal, Instructor Jennifer Staab and Instructor Amanda Moran.  
+My gratitude to Sir Sebastion Thrun, Instructor Katie Malone, Sir Peter Norvig, Sir Thad Starner,Sir Nicholas Roy, Sir David J. Malan, Sir David Silver, Sir Raffaello D'Andrea, Sir Ryan Keenan, Instructor Jay Alammar, Madam Dana Sheahen, Instructor Alexis Cook, Instructor Cezanne Camacho, Instructor Erica, Instructor Karim, Instructor Julia, Sir Stephen, Sir Aaron Brown, Sir Andy, Instructor Stefanie, Instructor Angela, Sir Andrew Trask, Sir Jonathan Larkin, Sir Gordon Ritter, Sir Justin Sheetz, Instructor Luis Serrano, Instructor Liz Otto Hamel, Instructor Eddie Shyu, Instructor Josh Bernhard, Instructor Parnian Barekatain, Instructor Miriam, Instructor Mat Leonard, Instructor Cindy, Instructor Brok Bucholtz, Instructor Arpan Chakraborty, Instructor Juan Delgado, Sir Jake, Sir Michael Virgo, Sir Tucker, Instructor Juno Lee, Sir Akshit, Brenda.Udacity, Palak.Udacity, Grace.Udacity, Instructor Grant Sanderson, Instructor Ortal, Instructor Jennifer Staab and Instructor Amanda Moran.  
 
 To memorize the journey start from self-driving Car Engineer Nanodegree Program to Artificial Intelligence Nanodegree Program to Flying Car Nanodegree Program then Robotics Software Nanodegree Program and CS50: Introduction to Computer Science 2018, To memorize the year of my enrollment in Udacity from 2017 to present.   
   
-  To memorize mentors Donald, Christopher, Jafar and David who encourage and support me a lot through my enrollment years. Here I collect the feedback and paper references from my Udacity reviewers and friendships I got from Udacity and CS50X. I want to extend what I learn and also extend the spirits, share knowledge with all my classmates at least this is what I can do if any of this citation papers helps you please send a star to them or references their papers will be an honorable action:).  
+  To memorize mentors Donald, Christopher, Jafar, Renaud Béchade and David who encourage and support me a lot through my enrollment years. Here I collect the feedback and paper references from my Udacity reviewers and friendships I got from Udacity and CS50X. I want to extend what I learn and also extend the spirits, share knowledge with all my classmates at least this is what I can do if any of this citation papers helps you please send a star to them or references their papers will be an honorable action:).  
   
   Within these periods I want to say thank you to Madam Olga Uskova, Mylene doublet o'kane and Sir Luigi Morelli. I love your writings and very appreciate every like you send to me. My gratitude to Martin McGovern, Karen E. Baker, and Udacity team you let me learn to be Udacious and persistence:D!
 
@@ -388,7 +388,7 @@ https://www.w3resource.com/PostgreSQL/foreign-key-constraint.php
 https://www.geeksforgeeks.org/introduction-of-dbms-database-management-system-set-1/  
 https://learn.panoply.io/hubfs/Data%20Engineering%20-%20Introduction%20and%20Epochs.pdf  
 https://softwareengineering.stackexchange.com/questions/375704/why-should-i-use-foreign-keys-in-database   
-http://norvig.com/21-days.html  
+https://norvig.com/21-days.html   
 
 #### References from the Intel® Edge AI for IoT Developers Nanodegree Program:  
 https://thegradient.pub/semantic-segmentation/  
