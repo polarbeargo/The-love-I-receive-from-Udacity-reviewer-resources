@@ -1,6 +1,6 @@
 # The-love-I-receive-from-Udacity-reviewer-resources
 
-My gratitude to Sir Sebastion Thrun, Instructor Katie Malone, Sir Peter Norvig, Sir Thad Starner,Sir Nicholas Roy, Sir David J. Malan, Sir David Silver, Sir Raffaello D'Andrea, Sir Ryan Keenan, Instructor Jay Alammar, Madam Dana Sheahen, Instructor Alexis Cook, Instructor Cezanne Camacho, Instructor Erica, Instructor Karim, Instructor Julia, Sir Stephen, Sir Aaron Brown, Sir Andy, Instructor Stefanie, Instructor Angela, Sir Andrew Trask, Sir Jonathan Larkin, Sir Gordon Ritter, Sir Justin Sheetz, Instructor Luis Serrano, Instructor Liz Otto Hamel, Instructor Eddie Shyu, Instructor Josh Bernhard, Instructor Parnian Barekatain, Instructor Miriam, Instructor Mat Leonard, Instructor Cindy, Instructor Brok Bucholtz, Instructor Arpan Chakraborty, Instructor Juan Delgado, Sir Jake, Sir Michael Virgo, Sir Tucker, Instructor Juno Lee, Sir Akshit, Brenda.Udacity, Palak.Udacity, Grace.Udacity, Instructor Grant Sanderson, Instructor Ortal, Instructor Jennifer Staab and Instructor Amanda Moran.  
+My gratitude to Sir Sebastion Thrun, Instructor Katie Malone, Sir Peter Norvig, Sir Bjarne Stroustrup, Sir Thad Starner,Sir Nicholas Roy, Sir David J. Malan, Sir David Silver, Sir Raffaello D'Andrea, Sir Ryan Keenan, Instructor Jay Alammar, Madam Dana Sheahen, Instructor Alexis Cook, Instructor Cezanne Camacho, Instructor Erica, Instructor Karim, Instructor Julia, Sir Stephen, Sir Aaron Brown, Sir Andy, Instructor Stefanie, Instructor Angela, Sir Andrew Trask, Sir Jonathan Larkin, Sir Gordon Ritter, Sir Justin Sheetz, Instructor Luis Serrano, Instructor Liz Otto Hamel, Instructor Eddie Shyu, Instructor Josh Bernhard, Instructor Parnian Barekatain, Instructor Miriam, Instructor Mat Leonard, Instructor Cindy, Instructor Brok Bucholtz, Instructor Arpan Chakraborty, Instructor Juan Delgado, Sir Jake, Sir Michael Virgo, Sir Tucker, Instructor Juno Lee, Sir Akshit, Brenda.Udacity, Palak.Udacity, Grace.Udacity, Instructor Grant Sanderson, Instructor Ortal, Instructor Jennifer Staab and Instructor Amanda Moran.  
 
 To memorize the journey start from self-driving Car Engineer Nanodegree Program to Artificial Intelligence Nanodegree Program to Flying Car Nanodegree Program then Robotics Software Nanodegree Program and CS50: Introduction to Computer Science 2018, To memorize the year of my enrollment in Udacity from 2017 to present.   
   
@@ -308,7 +308,6 @@ https://isocpp.org/wiki/faq/strange-inheritance
 http://www.cs.cmu.edu/~motionplanning/reading/PlanningforDynamicVeh-1.pdf  
 http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#Rh-override   
 https://www.onlinegdb.com/  
-https://darkdust.net/files/GDB%20Cheat%20Sheet.pdf  
 https://github.com/mvirgo/Rideshare-Simulation  
 
 #### References from Computer Vision Nanodegree Program:  
