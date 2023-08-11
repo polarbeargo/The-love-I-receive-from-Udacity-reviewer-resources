@@ -6,7 +6,7 @@ To memorize the journey starts from the Self-Driving Car Engineer Nanodegree Pro
   
   To memorize mentors Donald, Christopher, Jafar, Renaud Béchade, Pranjal Chaubey, David, Ray, and John who encourage and support me a lot through my enrollment years. Here I collect the feedback and paper references from my Udacity reviewers and friendships I got from Udacity and CS50X. I want to extend what I learn and also extend the spirit, and share knowledge with all my classmates at least this is what I can do if any of these citation papers help you please send a star to them or references their papers will be an honorable action:).  
   
-  Within these periods I want to say thank you to Madam Olga Uskova, Mylene doublet o'kane, and Sir Luigi Morelli. I love your writings and very much appreciate every like you send to me. My gratitude to Martin McGovern, Karen E. Baker, and Udacity team you let me learn to be Udacious and persistent :D!
+  Within these periods I want to say thank you to Madam Olga Uskova, Mylene doublet o'kane, and Sir Luigi Morelli. I love your writings and very much appreciate every like you send to me. My gratitude to Martin McGovern, Karen E. Baker, Brenda Law, Palak Sadani, Grace Cho, Isabella Navarro, and Udacity team you let me learn to be Udacious and persistent :D!
 
 #### From Madam Olga Uskova:
 
